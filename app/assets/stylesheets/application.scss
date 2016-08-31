@@ -1,0 +1,17 @@
+// Custom bootstrap variables must be set or imported before bootstrap itself.
+@import "bootstrap";
+
+.welcome_page {
+  color: brown;
+  text-align: center;
+}
+
+.students_main {
+  color: black;
+  text-align: center;
+}
+
+
+.btn-students {
+  align-items: center;
+}
